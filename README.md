@@ -28,13 +28,3 @@ Output: The largest number is: 30
 Operation: Add
 Input: 1 2 3 4
 Output: Result: 10
-
-
-## How to Run
-
-• Ensure Python 3 is installed on your system  
-• Open the Python file for the task you want to run (level1.py, level2.py, level3.py)  
-• Run it in a terminal or command prompt  
-• Follow the on-screen prompts to provide input  
-
-All implementations use simple Python constructs and normal for loops for readability and learning purposes
