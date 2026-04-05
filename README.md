@@ -1,8 +1,4 @@
 ﻿# CSEC_DATA_SCIENCE
-# Python Level-Based Tasks
-
-This project contains Python implementations for tasks from Level 1, Level 2, and Level 3. Each task demonstrates Python functions, loops, and basic programming concepts.
-
 ## Level 1: Reverse a String
 
 • Description: Takes a string input from the user and prints the reversed version  
