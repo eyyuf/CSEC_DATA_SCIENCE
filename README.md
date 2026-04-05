@@ -12,7 +12,7 @@ Output: olleh
 ## Level 2: Find the Largest Number in a List
 
 • Description: Finds the largest number from a list of numbers provided by the user  
-• Implementation: Prompts the user to enter numbers separated by spaces. Uses a normal for loop to convert each input to a float and stores it in a list. Iterates through the list to find the largest number  
+• Implementation: Prompts the user to enter numbers separated by spaces. Uses a normal for loop to convert each input to a integer and stores it in a list. Iterates through the list to find the largest number  
 • Example:  
 
 Input: 10 25 7 30
